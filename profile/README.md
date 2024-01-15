@@ -5,6 +5,7 @@ TripTape는 관심사가 비슷한 사람들끼리 여행지를 공유하고 모
 
 이런 다양한 주제를 관리자가 직접 게시판으로 관리하는 방법도 있겠지만, 좀 더 사용자가 주체가 되어 자신의 관심사로 게시판을 만들고, 그 주제에 관심이 있는 사용자끼리 대화할 수 있다면 좋지 않을까요?<br>
 이런 생각으로 개발된 서비스가 바로 **TripTape**입니다.
+
 ![슬라이드3](https://github.com/BCTour/triptape-front/assets/31800284/01152bec-d8a5-45fb-b55d-16b1e2d523cf)
 ![슬라이드4](https://github.com/BCTour/triptape-front/assets/31800284/fa9c1e61-f066-4fbe-b069-77eee474b524)
 ![슬라이드5](https://github.com/BCTour/triptape-front/assets/31800284/be47c28b-6546-436d-b136-3dd470000961)
@@ -21,4 +22,4 @@ TripTape는 관심사가 비슷한 사람들끼리 여행지를 공유하고 모
 ![시스템 구조도](https://github.com/BCTour/triptape-front/assets/31800284/1798eb4d-0101-488c-b616-419cf764ea58)
 
 # 서비스 시연
-![클릭](https://youtu.be/334WBvw3-hY)시 시연 영상 유튜브로 이동합니다.
+[클릭](https://www.youtube.com/watch?v=334WBvw3-hY)시 시연 영상 유튜브로 이동합니다.
